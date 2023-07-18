@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188962566302",
+    "project_id": "streamchat-46f4e",
+    "storage_bucket": "streamchat-46f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188962566302:android:7bb348788faec77da4cb8f",
+        "android_client_info": {
+          "package_name": "com.koechdil.streamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188962566302-hat1tssb1hk5nliv0imdifcfkns07nf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZUf_ayLNNel05KWCJ4haGI9qROXyxC0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188962566302-hat1tssb1hk5nliv0imdifcfkns07nf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
